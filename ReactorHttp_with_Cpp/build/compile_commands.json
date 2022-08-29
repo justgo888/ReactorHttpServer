@@ -1,0 +1,72 @@
+[
+{
+  "directory": "/home/liuyu/github/HttpServer_with_Reactor/ReactorHttp_with_Cpp/build/src",
+  "command": "/usr/bin/g++  -I/home/liuyu/github/HttpServer_with_Reactor/ReactorHttp_with_Cpp/include -g -g -o CMakeFiles/HttpServer.dir/Buffer.cpp.o -c /home/liuyu/github/HttpServer_with_Reactor/ReactorHttp_with_Cpp/src/Buffer.cpp",
+  "file": "/home/liuyu/github/HttpServer_with_Reactor/ReactorHttp_with_Cpp/src/Buffer.cpp"
+},
+{
+  "directory": "/home/liuyu/github/HttpServer_with_Reactor/ReactorHttp_with_Cpp/build/src",
+  "command": "/usr/bin/g++  -I/home/liuyu/github/HttpServer_with_Reactor/ReactorHttp_with_Cpp/include -g -g -o CMakeFiles/HttpServer.dir/Channel.cpp.o -c /home/liuyu/github/HttpServer_with_Reactor/ReactorHttp_with_Cpp/src/Channel.cpp",
+  "file": "/home/liuyu/github/HttpServer_with_Reactor/ReactorHttp_with_Cpp/src/Channel.cpp"
+},
+{
+  "directory": "/home/liuyu/github/HttpServer_with_Reactor/ReactorHttp_with_Cpp/build/src",
+  "command": "/usr/bin/g++  -I/home/liuyu/github/HttpServer_with_Reactor/ReactorHttp_with_Cpp/include -g -g -o CMakeFiles/HttpServer.dir/Dispatcher.cpp.o -c /home/liuyu/github/HttpServer_with_Reactor/ReactorHttp_with_Cpp/src/Dispatcher.cpp",
+  "file": "/home/liuyu/github/HttpServer_with_Reactor/ReactorHttp_with_Cpp/src/Dispatcher.cpp"
+},
+{
+  "directory": "/home/liuyu/github/HttpServer_with_Reactor/ReactorHttp_with_Cpp/build/src",
+  "command": "/usr/bin/g++  -I/home/liuyu/github/HttpServer_with_Reactor/ReactorHttp_with_Cpp/include -g -g -o CMakeFiles/HttpServer.dir/EpollDispatcher.cpp.o -c /home/liuyu/github/HttpServer_with_Reactor/ReactorHttp_with_Cpp/src/EpollDispatcher.cpp",
+  "file": "/home/liuyu/github/HttpServer_with_Reactor/ReactorHttp_with_Cpp/src/EpollDispatcher.cpp"
+},
+{
+  "directory": "/home/liuyu/github/HttpServer_with_Reactor/ReactorHttp_with_Cpp/build/src",
+  "command": "/usr/bin/g++  -I/home/liuyu/github/HttpServer_with_Reactor/ReactorHttp_with_Cpp/include -g -g -o CMakeFiles/HttpServer.dir/EventLoop.cpp.o -c /home/liuyu/github/HttpServer_with_Reactor/ReactorHttp_with_Cpp/src/EventLoop.cpp",
+  "file": "/home/liuyu/github/HttpServer_with_Reactor/ReactorHttp_with_Cpp/src/EventLoop.cpp"
+},
+{
+  "directory": "/home/liuyu/github/HttpServer_with_Reactor/ReactorHttp_with_Cpp/build/src",
+  "command": "/usr/bin/g++  -I/home/liuyu/github/HttpServer_with_Reactor/ReactorHttp_with_Cpp/include -g -g -o CMakeFiles/HttpServer.dir/HttpRequest.cpp.o -c /home/liuyu/github/HttpServer_with_Reactor/ReactorHttp_with_Cpp/src/HttpRequest.cpp",
+  "file": "/home/liuyu/github/HttpServer_with_Reactor/ReactorHttp_with_Cpp/src/HttpRequest.cpp"
+},
+{
+  "directory": "/home/liuyu/github/HttpServer_with_Reactor/ReactorHttp_with_Cpp/build/src",
+  "command": "/usr/bin/g++  -I/home/liuyu/github/HttpServer_with_Reactor/ReactorHttp_with_Cpp/include -g -g -o CMakeFiles/HttpServer.dir/Httpresponse.cpp.o -c /home/liuyu/github/HttpServer_with_Reactor/ReactorHttp_with_Cpp/src/Httpresponse.cpp",
+  "file": "/home/liuyu/github/HttpServer_with_Reactor/ReactorHttp_with_Cpp/src/Httpresponse.cpp"
+},
+{
+  "directory": "/home/liuyu/github/HttpServer_with_Reactor/ReactorHttp_with_Cpp/build/src",
+  "command": "/usr/bin/g++  -I/home/liuyu/github/HttpServer_with_Reactor/ReactorHttp_with_Cpp/include -g -g -o CMakeFiles/HttpServer.dir/PollDispatcher.cpp.o -c /home/liuyu/github/HttpServer_with_Reactor/ReactorHttp_with_Cpp/src/PollDispatcher.cpp",
+  "file": "/home/liuyu/github/HttpServer_with_Reactor/ReactorHttp_with_Cpp/src/PollDispatcher.cpp"
+},
+{
+  "directory": "/home/liuyu/github/HttpServer_with_Reactor/ReactorHttp_with_Cpp/build/src",
+  "command": "/usr/bin/g++  -I/home/liuyu/github/HttpServer_with_Reactor/ReactorHttp_with_Cpp/include -g -g -o CMakeFiles/HttpServer.dir/SelectDispatcher.cpp.o -c /home/liuyu/github/HttpServer_with_Reactor/ReactorHttp_with_Cpp/src/SelectDispatcher.cpp",
+  "file": "/home/liuyu/github/HttpServer_with_Reactor/ReactorHttp_with_Cpp/src/SelectDispatcher.cpp"
+},
+{
+  "directory": "/home/liuyu/github/HttpServer_with_Reactor/ReactorHttp_with_Cpp/build/src",
+  "command": "/usr/bin/g++  -I/home/liuyu/github/HttpServer_with_Reactor/ReactorHttp_with_Cpp/include -g -g -o CMakeFiles/HttpServer.dir/TcpConnection.cpp.o -c /home/liuyu/github/HttpServer_with_Reactor/ReactorHttp_with_Cpp/src/TcpConnection.cpp",
+  "file": "/home/liuyu/github/HttpServer_with_Reactor/ReactorHttp_with_Cpp/src/TcpConnection.cpp"
+},
+{
+  "directory": "/home/liuyu/github/HttpServer_with_Reactor/ReactorHttp_with_Cpp/build/src",
+  "command": "/usr/bin/g++  -I/home/liuyu/github/HttpServer_with_Reactor/ReactorHttp_with_Cpp/include -g -g -o CMakeFiles/HttpServer.dir/TcpServer.cpp.o -c /home/liuyu/github/HttpServer_with_Reactor/ReactorHttp_with_Cpp/src/TcpServer.cpp",
+  "file": "/home/liuyu/github/HttpServer_with_Reactor/ReactorHttp_with_Cpp/src/TcpServer.cpp"
+},
+{
+  "directory": "/home/liuyu/github/HttpServer_with_Reactor/ReactorHttp_with_Cpp/build/src",
+  "command": "/usr/bin/g++  -I/home/liuyu/github/HttpServer_with_Reactor/ReactorHttp_with_Cpp/include -g -g -o CMakeFiles/HttpServer.dir/ThreadPool.cpp.o -c /home/liuyu/github/HttpServer_with_Reactor/ReactorHttp_with_Cpp/src/ThreadPool.cpp",
+  "file": "/home/liuyu/github/HttpServer_with_Reactor/ReactorHttp_with_Cpp/src/ThreadPool.cpp"
+},
+{
+  "directory": "/home/liuyu/github/HttpServer_with_Reactor/ReactorHttp_with_Cpp/build/src",
+  "command": "/usr/bin/g++  -I/home/liuyu/github/HttpServer_with_Reactor/ReactorHttp_with_Cpp/include -g -g -o CMakeFiles/HttpServer.dir/WorkerThread.cpp.o -c /home/liuyu/github/HttpServer_with_Reactor/ReactorHttp_with_Cpp/src/WorkerThread.cpp",
+  "file": "/home/liuyu/github/HttpServer_with_Reactor/ReactorHttp_with_Cpp/src/WorkerThread.cpp"
+},
+{
+  "directory": "/home/liuyu/github/HttpServer_with_Reactor/ReactorHttp_with_Cpp/build/src",
+  "command": "/usr/bin/g++  -I/home/liuyu/github/HttpServer_with_Reactor/ReactorHttp_with_Cpp/include -g -g -o CMakeFiles/HttpServer.dir/main.cpp.o -c /home/liuyu/github/HttpServer_with_Reactor/ReactorHttp_with_Cpp/src/main.cpp",
+  "file": "/home/liuyu/github/HttpServer_with_Reactor/ReactorHttp_with_Cpp/src/main.cpp"
+}
+]
